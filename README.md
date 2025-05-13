@@ -10,7 +10,7 @@ Languages     → Go • Python • Java • C++
 Frontend      → React • TypeScript • HTML/CSS
 DevOps        → Docker • CI/CD Pipelines • GitHub Actions
 Networking    → DNS • FTP • VPN • Linux servers
-
+```
 **About ME**
 - Studying Computer Science @ Indiana Tech (B.S. '26)
 - Go + Linux Enthusiast
