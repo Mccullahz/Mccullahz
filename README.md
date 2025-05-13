@@ -18,7 +18,7 @@ Networking    → DNS • FTP • VPN • Linux servers
 
 **Projects**
 - [Zylar's Portfolio](https://zylarmccullah.tech) - My personal portfolio website, continually being updated with new projects and skills as I build myself.
-- [Process Management Simulator](https://github.com/Mccullahz/process-managment-simulator) - Built by a team of 3 in CS3200 (Operating Systems) at Indiana Tech using Go + Wails, this project simulates process management in an operating system. It includes features like process creation, scheduling, and termination.
+- [Process Management Simulator](https://github.com/Mccullahz/process-management-simulator) - Built by a team of 3 in CS3200 (Operating Systems) at Indiana Tech using Go + Wails, this project simulates process management in an operating system. It includes features like process creation, scheduling, and termination.
 - [Audi-DTC-CLI] Currently closed source - A command line tool for reading and clearing DTCs (Diagnostic Trouble Codes) from (B*) Audi vehicles. Built using Go, this tool interfaces with the vehicle's OBD-II port to retrieve and clear DTCs, providing a user-friendly command line interface for Audi owners and enthusiasts.
 - [Library Management System](https://github.com/Mccullahz/CS3700-LMS) - A library management system built using Java and JavaFX. This project allows users to manage library resources, including books, members, and transactions. It features a user-friendly interface and supports basic MySQL CRUD operations for efficient library management.
 
