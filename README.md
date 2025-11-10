@@ -20,7 +20,6 @@ Networking    → DNS • FTP • VPN • Linux servers
 - [My Portfolio](https://zylarmccullah.tech) - My personal portfolio website currently being refactored with React-TS, continually being updated with new projects and skills as I build myself.
 - [Go-Getta-Job](https://github.com/Mccullahz/go-getta-job) - A command-line tool written in Go that aids users in finding local job listings based on specified criteria such as job title, location, and experience level. It scrapes data from local job pages, not boards, providing users with relevant job opportunities with lower application competition.
 - [Flacer](https://www.github.com/Mccullahz/flacer) - An in devlopment cross platform desktop application for playing and managing high resolution audio files. Building with Go + Wails, it aims to provide a seamless user experience for audiophiles regardless of their operating system.
-- [Library Management System](https://github.com/Mccullahz/CS3700-LMS) - A library management system built using Java and JavaFX. This project allows users to manage library resources, including books, members, and transactions. It features a user-friendly interface and supports basic MySQL CRUD operations for efficient library management.
 
 
 **Let's Connect**
